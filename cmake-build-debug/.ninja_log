@@ -1,0 +1,9 @@
+# ninja log v5
+1	496	7290212067991920	CMakeFiles/DeepMiner.dir/main.cpp.obj	3cf4d49aba3cf242
+11	626	7290212069286534	CMakeFiles/DeepMiner.dir/Klassen/Robot/Robot2/Robot2.cpp.obj	38fa114b3a75583d
+17	632	7290212069354747	CMakeFiles/DeepMiner.dir/Klassen/Robot/Robot1/Robot1.cpp.obj	c8bf0e42ead47db1
+21	638	7290212069410528	CMakeFiles/DeepMiner.dir/Klassen/Robot/Robot.cpp.obj	a80e780c96af72a5
+8	641	7290212069435614	CMakeFiles/DeepMiner.dir/Klassen/Robot/Robot3/Robot3.cpp.obj	c890f2a5d1821d1c
+5	1375	7290212076759560	CMakeFiles/DeepMiner.dir/Klassen/GameManager/GameManager.cpp.obj	9bf80e20471f1699
+4	825	7290212461290631	CMakeFiles/DeepMiner.dir/Klassen/GameWorld/GameWorld.cpp.obj	3d7f82b830bf6e7f
+825	1034	7290212463370944	DeepMiner.exe	22d63f42524d3dd2
